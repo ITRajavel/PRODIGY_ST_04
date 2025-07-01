@@ -146,7 +146,7 @@ PRODIGY_ST_04/
 
 🔗 GitHub Repository
 
-https://github.com/ITRENUKAS/PRODIGY_ST_04
+https://github.com/ITRajavel/PRODIGY_ST_04
 
 🧑‍💼 LinkedIn Post Template
 
@@ -164,7 +164,7 @@ https://github.com/ITRENUKAS/PRODIGY_ST_04
 - Selenium WebDriver
 - BrowserStack
 
-🚀 GitHub: https://github.com/ITRENUKAS/PRODIGY_ST_04
+🚀 GitHub: https://github.com/ITRajavel/PRODIGY_ST_04
 
 #ProdigyInfoTech #Selenium #BrowserStack #SoftwareTesting #CrossBrowserTesting
 
